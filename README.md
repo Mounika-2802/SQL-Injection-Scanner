@@ -115,9 +115,10 @@ python sqli_scanner.py
 
 ## ⚠️ Disclaimer
 
-This tool is strictly for educational purposes.
+This tool is developed for educational and ethical testing purposes only.
 
 ⚠️ Do NOT use on unauthorized websites.
+
 Only test on:
 
 * DVWA
@@ -138,6 +139,3 @@ SQL_Injection_Scanner/
 🔥 IMPORTANT TO NOTE
 
 sqli_logs/ folder is automatically created upon running the sqli_scanner.py file.
-
-
-
